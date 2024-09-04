@@ -1,0 +1,7 @@
+@url =https://beatrizsanto-apissw0409-h8dw5gzi6z1.ws-us116.gitpod.io/
+ 
+###
+GET {{url}} /frutas
+ 
+###
+GET {{url}} /frutas
